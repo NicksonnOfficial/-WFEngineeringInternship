@@ -1,4 +1,5 @@
-# Welcome to the WFEngineering wiki!
+# Welcome to the WFEngineering!
+Things that i have done during my 20 weeks internship with wong fong engineering as a software engineer.
 
 ## TrackIt:
 A cutting-edge tracking system utilizing Internet of Things (IoT) sensors that can be attached to any vehicle in need of monitoring. The system allows users to track the utilization rate of their vehicles, enabling them to make informed decisions about their rental usage and save on costs. By allocating vehicles more efficiently, the system maximizes their potential and ensures that they are meeting the needs of customers. In addition, the system is built on a stable and reliable serverless backend utilizing Amazon Web Services (AWS) technologies such as Lambda, DynamoDB, EventBridge, S3, and SNS. The user interface is user-friendly and developed on the Android Java platform, providing easy access from any location. This system not only offers cost savings for users, but also helps them make the most of their rental investments.
